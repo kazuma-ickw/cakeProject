@@ -1,12 +1,11 @@
 
-
 <h1>Blog posts</h1>
 <?php echo $this->Html->link('Add Post', array('controller' => 'posts', 'action' => 'add')); ?>
 <table>
 	<tr>
 		<th>Id</th>
 		<th>Titleだよ</th>
-		<th>Delete</th>
+		<th>Deleteだね</th>
 		<th>Edit</th>
 		<th>Created</th>
 		<th>Modified</th>
