@@ -5,7 +5,7 @@
 <table>
 	<tr>
 		<th>Id</th>
-		<th>Title</th>
+		<th>Titleだよ</th>
 		<th>Delete</th>
 		<th>Edit</th>
 		<th>Created</th>
