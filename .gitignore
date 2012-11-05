@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test URI
 # Ignore netbeans folder
 nbproject/*
@@ -55,3 +56,10 @@ Thumbs.db
 /app/tmp/tests/*
 !/app/tmp/tests/
 !/app/tmp/tests/empty
+=======
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+>>>>>>> 35b4f99dfcb23a6d173af2e34c7a01c9ee2ca96c
