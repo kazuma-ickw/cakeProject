@@ -6,7 +6,7 @@
 		<th>Id</th>
 		<th>Titleだよ</th>
 		<th>Deleteだね</th>
-		<th>Edit</th>
+		<th>Editせよ</th>
 		<th>Created</th>
 		<th>Modified</th>
 	</tr>
