@@ -1,12 +1,16 @@
 <?php
-
+App::uses('AppController', 'Controller');
+/**
+ * Tasks Controller
+ *
+ * @property Task $Task
+ */
 class TasksController extends AppController {
 
-	var $name = 'Tasks';
-	var $uses = array('Task');
-
-	function index() {
-		$this->set('tasks', $this->Task->find('all'));
+	public function index() {
 	}
 
+	public function add() {
+	
+	}
 }
