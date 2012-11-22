@@ -44,16 +44,16 @@ class Task extends AppModel {
 				//'on' => 'create', // Limit validation to 'create' or 'update' operations
 			),
 		),
-		'limit_date' => array(
-			'datetime' => array(
-				'rule' => array('datetime'),
+//		'limit_date' => array(
+//			'datetime' => array(
+//				'rule' => array('datetime'),
 				//'message' => 'Your custom message here',
 				//'allowEmpty' => false,
 				//'required' => false,
 				//'last' => false, // Stop validation after this rule
 				//'on' => 'create', // Limit validation to 'create' or 'update' operations
-			),
-		),
+//			),
+//		),
 		'time' => array(
 			'numeric' => array(
 				'rule' => array('numeric'),

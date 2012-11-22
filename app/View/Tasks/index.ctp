@@ -1,7 +1,4 @@
-<form action="<?php echo h($html->url('/tasks/add')) ?>" method="post" style="margin-bottom:1em">
-<p><?php echo $html->input('Task/content') ?>
-<?php echo $html->submit('タスクを追加') ?></p>
-</form>
+
 
 <table>
 <tr>
